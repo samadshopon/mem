@@ -1,0 +1,147 @@
+*{
+	padding:0px;
+	margin:0px;
+	text-align:center;
+}
+/**CONTENT BAR START HERE**/
+.background{
+	background-image:url(../img/borrow-top-xl-std.jpg);
+	width:1365px;
+	height:620px;
+	background-repeat:no-repeat;
+}
+.background h1 {
+	text-align: center;
+	padding: 200px 0px 0px 0px;
+	font-size: 45px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.background p {
+	text-align: center;
+	font-size: 25px;
+	color: #ffffff;
+}
+#button {
+	width: 150px;
+	height: 80px;
+	font-size: 25px;
+	font-weight: bold;
+	float: left;
+	margin-left: 45%;
+}
+/**CONTENT BAR START END**/
+/**CONTENT BAR START HERE**/
+.content-text{}
+.content-text p {
+	margin: 100px 0px 0px 0px;
+	font-size: 26px;
+	color: #484848;
+	text-align: center;
+}
+.content-text img{
+	text-align:center;
+	margin:50px 0px 0px 0px;
+}
+.content-text h1 {
+	font-size: 55px;
+	font-weight: bold;
+	color: #0074E8;
+	margin: 50px 0px 0px 0px;
+}
+.left h2 {
+	font-size: 20px;
+	color: #63A541;
+	margin: 10px 0px 0px 0px;
+}
+.left p {
+	text-align: center;
+	margin: 10px 0px 0px 0px;
+	font-size: 18px;
+}
+/**CONTENT BAR START END**/
+/**APPLY SECTION START HERE**/
+.all {
+	width: 100px;
+	height: 100px;
+	margin: 100px 0px 0px 0px;
+}
+#text {
+	font-size: 25px;
+	font-weight: bold;
+	margin: 10px 0px 0px 0px;
+	color: #373954;
+}
+#month {
+	margin: 10px 0px 0px 0px;
+	color: #999999;
+	font-weight: bold;
+}
+#p {
+	margin: 10px 0px 0px 0px;
+	color: #4FAF4E;
+}
+#buttoni {
+	width: 150px;
+	height: 70px;
+	font-size: 30px;
+	margin: 50px 0px 50px 0px;
+}
+
+/**APPLY SECTION START END**/
+/**PROMO BAR START HERE**/
+.promo{
+	width:100% vh;
+	height:300px;
+	background:#EFEFEF;
+}
+.color {
+	margin: 50px 0px 0px 0px;
+	font-size: 42px;
+	color: #868686;
+}
+.margin {
+	margin: 30px 0px 0px 0px;
+	font-size: 20px;
+	color: #555555;
+	font-weight: bold;
+}
+/**PROMO BAR START END**/
+/**MUSIC DIVE START HERE**/
+.music-one p {
+	margin: 50px 0px 0px 0px;
+	color: #555555;
+	font-size: 25px;
+	font-weight: bold;
+}
+/**MUSIC DIVE START END**/
+/**QUALIFY DIV START HERE**/
+.qualify {
+	width: 100% vh;
+	height: 300px;
+	background: #4FAF4E;
+	margin: 50px 0px 0px 0px;
+}
+.qualify h1{
+	padding:20px 0px 0px 0px;
+	color:#ffffff;
+	font-weight:bold;
+	font-size:25px;
+}
+.left ul{}
+.left ul li {
+	font-size: 20px;
+	margin: 20px 0px 0px 130px;
+	line-height: 10px;
+	padding: 10px 0px 0px 0px;
+	color: #ffffff;
+	font-weight: bold;
+}
+.right{}
+#last {
+	width: 150px;
+	height: 100px;
+	float: left;
+	margin: 30px 0px 0px 100px;
+}
+/**QUALIFY DIV START END**/
